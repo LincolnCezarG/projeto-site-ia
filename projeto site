@@ -1,0 +1,142 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#sobre min">About</a></li>
+                <li><a href="#objetivos">Projects</a></li>
+                <li><a href="#contato">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="sobre min">
+        <h1>sobre min</h1>
+        <p>ola me chamo lincoln cezar, tenho 17 anos estou em busca de uma vaga de enprego,
+            tenho boa comunicação, trabalho bem em equipe, proativo e tenho vontade de trabalhar e aprender, estou a procura do meu primeiro emprego
+            ficaria feliz de ter a oportunidade de trabalhar em qualquer caego.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="objetivos">
+        <h1>meu objetivo profissional</h1>
+        <p> busco uma vaga de emprego para me desenvolver e aprender, irei realizar o serviço com a melhor qualidade possivel.</p>
+        <ul>
+            <li>
+                <img src="project1.jpg" alt="Project 1">
+                <h2>Project 1</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            </li>
+            <li>
+                <img src="project2.jpg" alt="Project 2">
+                <h2>Project 2</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            </li>
+            <!-- Add more projects here -->
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h1>Get in Touch</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+        <ul>
+            <li><a href="mailto:your_email@example.com">your_email@example.com</a></li>
+            <li><a href="https://www.linkedin.com/in/your_username/">LinkedIn</a></li>
+            <!-- Add more contact links here -->
+        </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 meu portifolio</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+css
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #23527c;
+}
+
+section {
+    padding: 2em;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 1em;
+    text-align: center;
+    color: #666;
+}
+
+
+
