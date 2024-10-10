@@ -1,12 +1,13 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>Meu Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,9 +15,9 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#sobre min">About</a></li>
-                <li><a href="#objetivos">Projects</a></li>
-                <li><a href="#contato">Contact</a></li>
+                <li><a href="#sobre min">sobre min</a></li>
+                <li><a href="#objetivos">Projeto</a></li>
+                <li><a href="#contato">Contato</a></li>
             </ul>
         </nav>
     </header>
@@ -24,7 +25,7 @@
     <!-- sobre Section -->
     <section id="sobre min">
         <h1>sobre min</h1>
-        <p>ola me chamo lincoln cezar, tenho 17 anos estou em busca de uma vaga de emprego,
+        <p>olá me chamo lincoln cezar, tenho 17 anos estou em busca de uma vaga de emprego,
             tenho boa comunicação, trabalho bem em equipe, proativo e tenho vontade de trabalhar e aprender, 
             ficaria feliz de ter a oportunidade de trabalhar em qualquer cargo.</p>
     </section>
