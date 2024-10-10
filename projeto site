@@ -1,4 +1,6 @@
-<!-- index.html -->
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,41 +21,41 @@
         </nav>
     </header>
 
-    <!-- About Section -->
+    <!-- sobre Section -->
     <section id="sobre min">
         <h1>sobre min</h1>
-        <p>ola me chamo lincoln cezar, tenho 17 anos estou em busca de uma vaga de enprego,
-            tenho boa comunicação, trabalho bem em equipe, proativo e tenho vontade de trabalhar e aprender, estou a procura do meu primeiro emprego
-            ficaria feliz de ter a oportunidade de trabalhar em qualquer caego.</p>
+        <p>ola me chamo lincoln cezar, tenho 17 anos estou em busca de uma vaga de emprego,
+            tenho boa comunicação, trabalho bem em equipe, proativo e tenho vontade de trabalhar e aprender, 
+            ficaria feliz de ter a oportunidade de trabalhar em qualquer cargo.</p>
     </section>
 
-    <!-- Projects Section -->
+    <!-- 0bjetivo Section -->
     <section id="objetivos">
         <h1>meu objetivo profissional</h1>
         <p> busco uma vaga de emprego para me desenvolver e aprender, irei realizar o serviço com a melhor qualidade possivel.</p>
         <ul>
             <li>
-                <img src="project1.jpg" alt="Project 1">
+                <img src="algo" alt="Project 1">
                 <h2>Project 1</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
             </li>
             <li>
-                <img src="project2.jpg" alt="Project 2">
+                <img src="algo" alt="Project 2">
                 <h2>Project 2</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
             </li>
-            <!-- Add more projects here -->
+            
         </ul>
     </section>
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <h1>Get in Touch</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+    <!-- Contato Section -->
+    <section id="contato">
+        <h1>contato</h1>
+        <p></p>
         <ul>
-            <li><a href="mailto:your_email@example.com">your_email@example.com</a></li>
+            <li><a href="linconcezargomessoares@gmail.com">  </a></li>
             <li><a href="https://www.linkedin.com/in/your_username/">LinkedIn</a></li>
-            <!-- Add more contact links here -->
+            
         </ul>
     </section>
 
@@ -65,8 +67,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-
-
-
-
